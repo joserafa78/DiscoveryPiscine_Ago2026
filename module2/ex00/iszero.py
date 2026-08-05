@@ -1,4 +1,4 @@
-#!/usr/bim/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 try:
     numero = int(  input("ingrese un numero: "))
