@@ -15,4 +15,3 @@ fila = 0
 while fila <=10:
     print(f"Table of {fila}: {caracteresMultiplicados(fila)}")
     fila += 1
-

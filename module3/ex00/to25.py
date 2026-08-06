@@ -7,11 +7,10 @@ def imprimehasta25 (valor):
 		valor= valor +1
 
 try:
-	num1=int(input("Ingrese el Numer:"))
+	num1=float(input("Ingrese el Numer:"))
 	if num1 >25:
 		print("Error")
 	else:
 		imprimehasta25(num1)
 
 except ValueError:
-	print("Gran Error,Por Odin, Uste no ha ingresado valor Numerico,CHAO!!!")
